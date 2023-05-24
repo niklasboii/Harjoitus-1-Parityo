@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 1 Parityo", "Harjoitus 1 Parityo\Harjoitus 1 Parityo.csproj", "{E6F590CB-DA8F-4BBD-A342-99411D126499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F590CB-DA8F-4BBD-A342-99411D126499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F590CB-DA8F-4BBD-A342-99411D126499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F590CB-DA8F-4BBD-A342-99411D126499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F590CB-DA8F-4BBD-A342-99411D126499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BC00A6-535D-4A45-BFB2-4C95DDB11241}
+	EndGlobalSection
+EndGlobal
